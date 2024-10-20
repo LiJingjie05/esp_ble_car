@@ -1,0 +1,16 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.adapterTargetName": "esp32c3",
+  "files.associations": {
+    "encoder.h": "c",
+    "esp_log.h": "c",
+    "pulse_cnt.h": "c",
+    "compare": "c",
+    "mcpwm_prelude.h": "c",
+    "ledc.h": "c",
+    "gpio.h": "c",
+    "stdint.h": "c",
+    "kalman_filter.h": "c",
+    "semphr.h": "c"
+  }
+}
