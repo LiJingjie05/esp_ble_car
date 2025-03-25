@@ -11,6 +11,7 @@
     "gpio.h": "c",
     "stdint.h": "c",
     "kalman_filter.h": "c",
-    "semphr.h": "c"
+    "semphr.h": "c",
+    "mpu6050.h": "c"
   }
 }

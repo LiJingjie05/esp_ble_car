@@ -3,5 +3,6 @@
 cmake_minimum_required(VERSION 3.16)
 
 include($ENV{IDF_PATH}/tools/cmake/project.cmake)
-set(EXTRA_COMPONENT_DIRS "drive" "proc" "ble")
+# set(EXTRA_COMPONENT_DIRS "drive" "proc" "ble")
+set(EXTRA_COMPONENT_DIRS "drive" "proc")
 project(esp_ble_car)
